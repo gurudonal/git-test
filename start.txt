@@ -1,1 +1,3 @@
  Test Git quick Start
+
+Before using "git merge", make sure the correct local branch is checked out. Then, to perform the merge, simply specify which branch's commits you want to integrate:
